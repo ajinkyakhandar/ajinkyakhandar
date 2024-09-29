@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, World! 🌍 I'm Ajinkya 👋
 
-<!--
-**ajinkyakhandar/ajinkyakhandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Frontend Developer** at **EY**, specializing in **Angular, React, Javascript, TypeScript, CSS, HTML**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools 🛠️
+
+| Language/Framework/Tool | Proficiency |
+|--------------------------|-------------|
+| JavaScript               | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
+| React                   | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
+| Angular                  | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
+| Node.js                   | ![Level](https://img.shields.io/badge/Level-Beginner-red) |
+
+## Fun Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyakhandar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyakhandar&layout=compact&theme=radical)
+
+## Let's Build Something Great Together! 🤝
