@@ -1,21 +1,41 @@
-# Hello, World! 🌍 I'm Ajinkya 👋
+<h3><strong>About Me:</strong></h3>
+I'm a Frontend Engineer with 5+ years of experience that specializes in creating wonderful online experiences and producing code that is both efficient and optimized.<br>
+I’m currently learning NodeJS and System Design (LLD and HLD).<br>
+I’m looking to collaborate on Frontend applications that are extensively using ReactJS / JS / HTML / CSS.
 
-## About Me
+<h3><strong>Socials:</strong></h3>
+<a href="https://www.linkedin.com/in/ajinkya-khandar/">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
+</a>
 
-I'm a passionate **Frontend Developer** at **EY**, specializing in **Angular, React, Javascript, TypeScript, CSS, HTML**.
+<h3><strong>Tech Stack:</strong></h3> 
+<div>
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React"/> 
+<img src="https://img.icons8.com/color/48/redux.png" alt="Redux"/> 
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/> 
+<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/> 
+<img src="https://img.icons8.com/color/48/jira.png" alt="Jira"/> 
+<img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/> 
+<img src="https://img.icons8.com/fluency/48/node-js.png" alt="NodeJS"/> 
+<img src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/> 
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> 
+<img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="TypeScript"/> 
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/> 
+<img src="https://img.icons8.com/color/48/sass.png" alt="SASS"/> 
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-webpack-a-module-bundler-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-logo-shadow-tal-revivo.png" alt="Webpack"/>
+</div>
 
-## Skills & Tools 🛠️
+<h3><strong>GitHub Stats:</strong></h3>
+<img src="https://github-readme-stats.vercel.app/api?username=ajinkyakhandar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
 
-| Language/Framework/Tool | Proficiency |
-|--------------------------|-------------|
-| JavaScript               | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
-| React                   | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
-| Angular                  | ![Level](https://img.shields.io/badge/Level-Expert-brightgreen) |
-| Node.js                   | ![Level](https://img.shields.io/badge/Level-Beginner-red) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyakhandar&theme=radical&hide_border=false" alt="GitHub Streak"/><br/>
 
-## Fun Stats 📊
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyakhandar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br/>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinkyakhandar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyakhandar&layout=compact&theme=radical)
+<h3><strong>Top Contributed Repo:</strong></h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=ajinkyakhandar&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
-## Let's Build Something Great Together! 🤝
+---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ajinkyakhandar&icon=5&color=0" alt="Visitor Count"/>
+</a>
