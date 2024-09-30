@@ -23,6 +23,7 @@ I’m looking to collaborate on Frontend applications that are extensively using
 <div>
 <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/> &nbsp;
 <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/> &nbsp;
+<img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" title="Angular"/> &nbsp;
 <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/> &nbsp;
 <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS"/> &nbsp;
 <img src="https://img.icons8.com/color/48/jira.png" alt="Jira" title="Jira"/> &nbsp;
