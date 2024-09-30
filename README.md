@@ -15,7 +15,7 @@ I’m looking to collaborate on Frontend applications that are extensively using
   <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="Medium" title="Medium">
 </a>&nbsp;
 <a href="https://leetcode.com/u/KhandarAjinkya/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Medium" title="Medium">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leetcode" title="Leetcode">
 </a>
 </h3>
 
