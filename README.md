@@ -5,31 +5,34 @@ I’m looking to collaborate on Frontend applications that are extensively using
 
 <h3><strong>Socials:</strong></h3>
 <h3>
-<a href="https://www.linkedin.com/in/ajinkya-khandar/" target="_blank">
+<a href="https://www.linkedin.com/in/ajinkya-khandar/" target="_blank"> 
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn">
-</a>
+</a> &nbsp;
 <a href="https://stackoverflow.com/users/7654190/ajinkya-khandar" target="_blank">
   <img src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" title="stackoverflow">
-</a>
+</a>&nbsp;
 <a href="https://medium.com/@khandarajinkya" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="Medium" title="Medium">
+</a>&nbsp;
+<a href="https://leetcode.com/u/KhandarAjinkya/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Medium" title="Medium">
 </a>
 </h3>
 
 <h3><strong>Tech Stack:</strong></h3> 
 <div>
-<img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/> 
-<img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/> 
-<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/> 
-<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS"/> 
-<img src="https://img.icons8.com/color/48/jira.png" alt="Jira" title="Jira"/> 
-<img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" title="Express.js"/> 
-<img src="https://img.icons8.com/fluency/48/node-js.png" alt="NodeJS" title="NodeJS"/> 
-<img src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" title="MongoDB"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/> 
-<img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="TypeScript" title="TypeScript"/> 
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/> 
-<img src="https://img.icons8.com/color/48/sass.png" alt="SASS" title="SASS"/> 
+<img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/> &nbsp;
+<img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/> &nbsp;
+<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/> &nbsp;
+<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS"/> &nbsp;
+<img src="https://img.icons8.com/color/48/jira.png" alt="Jira" title="Jira"/> &nbsp;
+<img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" title="Express.js"/> &nbsp;
+<img src="https://img.icons8.com/fluency/48/node-js.png" alt="NodeJS" title="NodeJS"/> &nbsp;
+<img src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" title="MongoDB"/> &nbsp;
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/> &nbsp;
+<img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="TypeScript" title="TypeScript"/> &nbsp;
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/> &nbsp;
+<img src="https://img.icons8.com/color/48/sass.png" alt="SASS" title="SASS"/> &nbsp;
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-webpack-a-module-bundler-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-logo-shadow-tal-revivo.png" alt="Webpack" title="Webpack"/>
 </div>
 
