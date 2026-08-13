@@ -1,53 +1,42 @@
-<h3><strong>About Me:</strong></h3>
-I'm a Frontend Engineer with 5+ years of experience that specializes in creating wonderful online experiences and producing code that is both efficient and optimized.<br>
-I’m currently learning NodeJS and System Design (LLD and HLD).<br>
-I’m looking to collaborate on Frontend applications that are extensively using ReactJS / JS / HTML / CSS.
+<h1>Ajinkya Khandar</h1>
 
-<h3><strong>Socials:</strong></h3>
-<h3>
-<a href="https://www.linkedin.com/in/ajinkya-khandar/" target="_blank"> 
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn">
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/7654190/ajinkya-khandar" target="_blank">
-  <img src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" title="stackoverflow">
-</a>&nbsp;
-<a href="https://medium.com/@khandarajinkya" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="Medium" title="Medium">
-</a>&nbsp;
-<a href="https://leetcode.com/u/KhandarAjinkya/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leetcode" title="Leetcode">
-</a>
-</h3>
+<p>
+  Pune, Maharashtra • <a href="mailto:khandarajinkya@gmail.com">khandarajinkya@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/ajinkya-khandar/" target="_blank">linkedin.com/in/ajinkya-khandar</a>
+</p>
 
-<h3><strong>Tech Stack:</strong></h3> 
-<div>
-<img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React"/> &nbsp;
-<img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/> &nbsp;
-<img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" title="Angular"/> &nbsp;
-<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/> &nbsp;
-<img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS" title="TailwindCSS"/> &nbsp;
-<img src="https://img.icons8.com/color/48/jira.png" alt="Jira" title="Jira"/> &nbsp;
-<img src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" title="Express.js"/> &nbsp;
-<img src="https://img.icons8.com/fluency/48/node-js.png" alt="NodeJS" title="NodeJS"/> &nbsp;
-<img src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" title="MongoDB"/> &nbsp;
-<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/> &nbsp;
-<img src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="TypeScript" title="TypeScript"/> &nbsp;
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/> &nbsp;
-<img src="https://img.icons8.com/color/48/sass.png" alt="SASS" title="SASS"/> &nbsp;
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-webpack-a-module-bundler-its-main-purpose-is-to-bundle-javascript-files-for-usage-in-a-browser-logo-shadow-tal-revivo.png" alt="Webpack" title="Webpack"/>
-</div>
+<h2>Professional Experience</h2>
 
-<h3><strong>GitHub Stats:</strong></h3>
-<img src="https://github-readme-stats.vercel.app/api?username=ajinkyakhandar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+<h3>ERNST & YOUNG (EY)</h3>
+<p><strong>Senior Consultant</strong><br>
+Pune, Maharashtra<br>
+December 2023 - Present</p>
+<ul>
+  <li>Led development of an Order Management System, a highly data-driven and computation-intensive application, streamlining order placement, allocation, and supply chain processes.</li>
+  <li>Architected a modular, configuration-driven UI platform, enabling ~60% dynamic rendering and significantly improving extensibility and developer velocity.</li>
+  <li>Drove performance optimizations using code-splitting, lazy loading, and preloading strategies, reducing load times and enhancing user experience at scale.</li>
+  <li>Contributed to end-to-end feature delivery in an Agile environment, collaborating across frontend, backend, and product teams.</li>
+  <li>Owned production reliability as on-call rotations (primary/secondary), proactively monitoring systems and resolving critical issues to maintain high availability.</li>
+</ul>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyakhandar&theme=radical&hide_border=false" alt="GitHub Streak"/><br/>
+<h3>INFOCEPTS</h3>
+<p><strong>Senior Executive</strong><br>
+Nagpur, Maharashtra<br>
+June 2019 - December 2023</p>
+<ul>
+  <li>Built a unified frontend platform integrating Power BI and MicroStrategy, supporting 120+ enterprise reports, improving accessibility and consolidating analytics workflows; implemented Okta-based SSO for secure access.</li>
+  <li>Enhanced the platform with report bookmarking and usage tracking, enabling teams to identify high-value insights and optimize reporting usage, resulting in the decommissioning of ~5% of low-usage reports.</li>
+  <li>Developed custom Power BI chart plugins and extended visualization capabilities to address feature gaps.</li>
+  <li>Customized MicroStrategy and Power BI SDKs to support client-specific requirements for a large-scale media management use case.</li>
+</ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyakhandar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br/>
+<h2>Technical Skills</h2>
+<p>
+  <strong>Frontend:</strong> React, Angular, TypeScript, JavaScript (ES6+), HTML, CSS<br>
+  <strong>State Management:</strong> Redux, RxJS, NgRx<br>
+  <strong>UI & Visualization:</strong> Material UI, Tailwind CSS, PrimeNG, AG Grid, SlickGrid, Highcharts, D3.js<br>
+  <strong>Performance Optimization:</strong> Lazy loading, memoization, code splitting<br>
+  <strong>Authentication & Integration:</strong> Okta (SSO), Embedded analytics (Power BI, MicroStrategy)<br>
+  <strong>Data & Engineering Tools:</strong> MySQL, PostgreSQL, Git, Agile/Scrum
+</p>
 
-<h3><strong>Top Contributed Repo:</strong></h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=ajinkyakhandar&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ajinkyakhandar&icon=5&color=0" alt="Visitor Count"/>
-</a>
