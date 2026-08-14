@@ -1,42 +1,52 @@
-<h1>Ajinkya Khandar</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Ajinkya%20Khandar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+### 👋 Full-Stack Developer
+
+**React · Angular · Python · Django · TypeScript**
 
 <p>
-  Pune, Maharashtra • <a href="mailto:khandarajinkya@gmail.com">khandarajinkya@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/ajinkya-khandar/" target="_blank">linkedin.com/in/ajinkya-khandar</a>
+  <a href="https://linkedin.com/in/ajinkya-khandar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khandarajinkya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h2>Professional Experience</h2>
+</div>
 
-<h3>ERNST & YOUNG (EY)</h3>
-<p><strong>Senior Consultant</strong><br>
-Pune, Maharashtra<br>
-December 2023 - Present</p>
-<ul>
-  <li>Led development of an Order Management System, a highly data-driven and computation-intensive application, streamlining order placement, allocation, and supply chain processes.</li>
-  <li>Architected a modular, configuration-driven UI platform, enabling ~60% dynamic rendering and significantly improving extensibility and developer velocity.</li>
-  <li>Drove performance optimizations using code-splitting, lazy loading, and preloading strategies, reducing load times and enhancing user experience at scale.</li>
-  <li>Contributed to end-to-end feature delivery in an Agile environment, collaborating across frontend, backend, and product teams.</li>
-  <li>Owned production reliability as on-call rotations (primary/secondary), proactively monitoring systems and resolving critical issues to maintain high availability.</li>
-</ul>
+---
 
-<h3>INFOCEPTS</h3>
-<p><strong>Senior Executive</strong><br>
-Nagpur, Maharashtra<br>
-June 2019 - December 2023</p>
-<ul>
-  <li>Built a unified frontend platform integrating Power BI and MicroStrategy, supporting 120+ enterprise reports, improving accessibility and consolidating analytics workflows; implemented Okta-based SSO for secure access.</li>
-  <li>Enhanced the platform with report bookmarking and usage tracking, enabling teams to identify high-value insights and optimize reporting usage, resulting in the decommissioning of ~5% of low-usage reports.</li>
-  <li>Developed custom Power BI chart plugins and extended visualization capabilities to address feature gaps.</li>
-  <li>Customized MicroStrategy and Power BI SDKs to support client-specific requirements for a large-scale media management use case.</li>
-</ul>
+### 🛠️ Tech Stack
 
-<h2>Technical Skills</h2>
-<p>
-  <strong>Frontend:</strong> React, Angular, TypeScript, JavaScript (ES6+), HTML, CSS<br>
-  <strong>State Management:</strong> Redux, RxJS, NgRx<br>
-  <strong>UI & Visualization:</strong> Material UI, Tailwind CSS, PrimeNG, AG Grid, SlickGrid, Highcharts, D3.js<br>
-  <strong>Performance Optimization:</strong> Lazy loading, memoization, code splitting<br>
-  <strong>Authentication & Integration:</strong> Okta (SSO), Embedded analytics (Power BI, MicroStrategy)<br>
-  <strong>Data & Engineering Tools:</strong> MySQL, PostgreSQL, Git, Agile/Scrum
-</p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,django,react,angular,typescript,javascript,html,css,postgres,mysql,git&perline=6"/>
+
+</div>
+
+---
+
+### 💼 About Me
+
+> Senior Consultant at **EY**, building scalable enterprise applications and data-driven platforms.
+
+<div align="center">
+
+**⚡ Full-Stack Development**   •  
+**🚀 Performance**   •  
+**📊 Data Visualization**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
+
+</div>
