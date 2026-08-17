@@ -21,14 +21,13 @@
 
 ### About Me
 
-Software Engineer building scalable enterprise applications, analytics platforms, and data-driven solutions.
+**Full-Stack Engineer** specializing in building **scalable, high-performance enterprise applications and data-driven platforms**.
 
-* **120+ enterprise reports** integrated into a unified analytics platform
-* Helped identify and retire **10%+ low-value reports**
-* Built configuration-driven UI enabling **60%+ dynamic rendering**
-* Experienced in **enterprise reporting, order management & platform modernization**
+I collaborate with organizations to **design, develop, and optimize robust software solutions** that solve complex business problems and improve application performance.
 
-I enjoy solving complex problems through **clean architecture, performance optimization, and scalable systems**.
+My areas of interest include **system design, clean architecture, performance optimization, distributed systems, and scalable application development**.
+
+Passionate about building **reliable, maintainable, and impactful software solutions** while continuously exploring new technologies and engineering practices.
 
 ---
 
