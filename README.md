@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Ajinkya%20Khandar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:7C3AED&height=170&section=header&text=Ajinkya%20Khandar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Software Engineer · Full-Stack Developer
 
-**Angular · React · TypeScript · Python · Django · Node.js**
+**Angular · React · TypeScript · Python · Django · Node.js · GraphQL**
 
 <p>
 <a href="https://linkedin.com/in/ajinkya-khandar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@khandarajinkya">
+<img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/>
 </a>
 <a href="mailto:khandarajinkya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -19,38 +22,56 @@
 
 ---
 
-### About Me
+## About
 
-**Full-Stack Engineer** specializing in building **scalable, high-performance enterprise applications and data-driven platforms**.
+Full-Stack Engineer focused on building **scalable, high-performance enterprise applications and data-driven platforms**.
 
-I collaborate with organizations to **design, develop, and optimize robust software solutions** that solve complex business problems and improve application performance.
+Experienced across the application stack, from designing frontend architectures and APIs to building backend services, data pipelines, and distributed systems.
 
-My areas of interest include **system design, clean architecture, performance optimization, distributed systems, and scalable application development**.
+Interested in **system design, clean architecture, performance engineering, distributed systems, and event-driven architectures**.
 
-Passionate about building **reliable, maintainable, and impactful software solutions** while continuously exploring new technologies and engineering practices.
+I value software that is **simple to understand, reliable in production, and designed to evolve**.
 
 ---
 
-### Tech Stack
+## Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,python,django,nodejs,postgres,mysql,redis,kafka,docker,git,aws&perline=7"/>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,python,django,nodejs,graphql,postgres,mysql,redis,kafka,docker,git,aws&perline=7"/>
+
+</div>
+
+### Application Development
+
+Angular · React · TypeScript · JavaScript · Python · Django · Node.js · GraphQL
+
+### Data & Infrastructure
+
+PostgreSQL · MySQL · Redis · Kafka · Docker · AWS
+
+### Engineering Focus
+
+System Design · Distributed Systems · Event-Driven Architecture · Performance Optimization · Clean Architecture
+
+---
+
+## Writing
+
+I write about software engineering, backend architecture, system design, performance, and technologies I explore.
+
+<div align="center">
+
+<a href="https://medium.com/@khandarajinkya">
+<img src="https://img.shields.io/badge/Medium-Read%20my%20articles-111827?style=flat-square&logo=medium&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### Currently Exploring
-
-**System Design · Kafka · Redis · Distributed Systems · Event-Driven Architecture · AWS**
-
----
-
 <div align="center">
 
-### Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:4F46E5&height=90&section=footer"/>
 
 </div>
