@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ajinkya-khandar&color=e45447&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:7C3AED&height=170&section=header&text=Ajinkya%20Khandar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
